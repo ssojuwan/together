@@ -1,0 +1,23 @@
+
+
+.a_PL{
+    text-decoration: none;
+
+}
+.writeBtn_PL{
+    width : 70px;
+    height : 30px;
+    margin-right : 10%;
+    margin-bottom: 1%;
+    margin-top: 20px;
+    float: right;
+    color : black;
+    
+}
+.invisiblehr_PL{
+    opacity: 0;
+}
+.a_pl{
+    text-decoration: none;
+    color : black;
+}

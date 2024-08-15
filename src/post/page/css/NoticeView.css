@@ -1,0 +1,41 @@
+/* 게시글 상세보기 css */
+.postWrapper_PV {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.btn_PV {
+  border: 0;
+  padding: 10px;
+  background-color: #5a95cb;
+  color : white;
+  margin-bottom: 1%;
+  float : right;
+  margin-right: 1%;
+}
+
+.postRow_PV {
+  margin: 5px 0;
+  display: flex;
+}
+
+.postRow_PV > label:first-child {
+  margin: 5px 0;
+  width: 20%;
+  font-weight: bold;
+}
+
+.postRow_PV > *:nth-child(2) {
+  margin: 10px 0;
+  width: 1000px;
+}
+.div_PV{
+  height:30%;
+}
+.h2_PV{
+  text-align: center;
+}
+.a_PV{
+  text-decoration: none;
+  color : white;
+}

@@ -1,0 +1,19 @@
+.title_NF { /* 제목 박스 */
+    font-size: 40px;
+
+}
+
+.body_NF {
+    margin: auto;
+    text-align: center;;
+}
+.a_NF{
+    text-decoration: none;
+    color:black;
+}
+.h1_NF{
+    text-align:center;
+}
+.invisible_NF{
+    opacity: 0%;
+}

@@ -1,0 +1,24 @@
+.NoticeMain_body {
+    text-align: center;
+    min-width: 1000px;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+@media (max-width: 1300px) {
+
+    .NoticeMain_body {
+        margin-left:10%;
+        margin-right:10%;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    .NoticeMain_body {
+        margin-left:0%;
+        margin-right:0%;
+    }
+
+}
